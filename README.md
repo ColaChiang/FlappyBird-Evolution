@@ -34,7 +34,7 @@
 2. 啟動遊戲：
    ```bash
     python main.py
-
+   ```
 
 ---
 
